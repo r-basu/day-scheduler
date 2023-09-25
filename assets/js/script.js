@@ -21,9 +21,8 @@ $(function () {
   //
   // TODO: Add code to display the current date in the header of the page.
   let currentDay = document.getElementById('currentDay')
-  let currDate = dayjs()
 
   //Format returned date and insert into currentDay ID in HTML
-  let currDateForm = dayjs(currDate).format('D MMMM YYYY')
-  currentDay.textContent = currDateForm
+  let currDate = dayjs().format('D MMMM YYYY')
+  currentDay.textContent = currDate
 });
