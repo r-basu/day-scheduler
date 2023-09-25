@@ -1,5 +1,5 @@
 # Day Scheduler
-A daily planner utilizing interactive events and saving into local storage.
+A daily planner utilizing third party API's such as DayJS and JQuery, using interactive events and saving into local storage.
 
 [Application Deployment](https://github.io/r-basu/day-scheduler)
 
