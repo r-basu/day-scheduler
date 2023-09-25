@@ -3,6 +3,6 @@ A daily planner utilizing third party API's such as DayJS and JQuery, using inte
 
 [Application Deployment](https://github.io/r-basu/day-scheduler)
 
-![Application Screenshot](./assets/images/05-third-party-apis-homework-demo.gif)
+![Application Screenshot](./assets/images/day-schedule-example.png)
 
 [Starter code used](https://github.com/coding-boot-camp/crispy-octo-meme)
